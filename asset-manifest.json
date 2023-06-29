@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/andrew-win/static/css/main.ebdfb2de.css",
-    "main.js": "/andrew-win/static/js/main.9b8f7a9b.js",
+    "main.js": "/andrew-win/static/js/main.8cc1317c.js",
     "static/js/787.ef308ba5.chunk.js": "/andrew-win/static/js/787.ef308ba5.chunk.js",
     "static/media/Laliguras-1.jpeg": "/andrew-win/static/media/Laliguras-1.b8f695bae8cf193faf7e.jpeg",
     "static/media/logo.svg": "/andrew-win/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/andrew-win/index.html",
     "main.ebdfb2de.css.map": "/andrew-win/static/css/main.ebdfb2de.css.map",
-    "main.9b8f7a9b.js.map": "/andrew-win/static/js/main.9b8f7a9b.js.map",
+    "main.8cc1317c.js.map": "/andrew-win/static/js/main.8cc1317c.js.map",
     "787.ef308ba5.chunk.js.map": "/andrew-win/static/js/787.ef308ba5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebdfb2de.css",
-    "static/js/main.9b8f7a9b.js"
+    "static/js/main.8cc1317c.js"
   ]
 }
